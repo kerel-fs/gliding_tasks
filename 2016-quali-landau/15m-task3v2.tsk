@@ -1,0 +1,33 @@
+<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+  <Point type="Start">
+    <Waypoint name="LandauEbenbe" id="0" comment="" altitude="160.0">
+      <Location longitude="8.1361167" latitude="49.1763833"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="20000.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Gruenstadt" id="0" comment="" altitude="170.0">
+      <Location longitude="8.18695" latitude="49.55195"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Walldorf" id="0" comment="" altitude="108.0">
+      <Location longitude="8.6213833" latitude="49.28055"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Heppenheim" id="0" comment="" altitude="95.0">
+      <Location longitude="8.6247167" latitude="49.6208333"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Finish">
+    <Waypoint name="LandauEbenbe" id="0" comment="" altitude="160.0">
+      <Location longitude="8.1361167" latitude="49.1763833"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="3000.0"/>
+  </Point>
+</Task>
+
