@@ -1,6 +1,6 @@
 # DM der Clubklasse 2017
 
-Tracking-Link: <http://glidertracker.org/#nowelcome&lst=https://raw.githubusercontent.com/kerel-fs/gliding_tasks/master/2017-DM-club/tracking.csv>
+Tracking-Link: <https://glidertracker.org/#nowelcome&lst=https://raw.githubusercontent.com/kerel-fs/gliding_tasks/master/2017-DM-club/tracking.csv&tsk=https://raw.githubusercontent.com/kerel-fs/gliding_tasks/master/2017-DM-club/task-day1.tsk>
 
 # Examples
 ## OGN-DDB to trackingCSV
