@@ -1,5 +1,9 @@
+# DM der Clubklasse 2017
 
-# OGN-DDB to trackingCSV
+Tracking-Link: <http://glidertracker.org/#nowelcome&lst=https://raw.githubusercontent.com/kerel-fs/gliding_tasks/master/2017-DM-club/tracking.csv>
+
+# Examples
+## OGN-DDB to trackingCSV
 ```
 import csv
 import sys
@@ -11,7 +15,7 @@ with open("./2017-DM-club.csv", 'r') as f:
         print(",".join(["06" + row[1],row[3], row[4], row[2]]))
 ```
 
-# JSON-Task
+## JSON-Task
 ```
 {"tasks": [
     {"name": "15m", "color": "0000FF", "legs": [ [47.3,1.55],[48.2,2.3],[30000],[47.5,-1.3],[50000],[47.3,1.5] ] },
