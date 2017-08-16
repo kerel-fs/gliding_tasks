@@ -1,0 +1,32 @@
+<Task fai_finish="0" finish_min_height_ref="AGL" finish_min_height="300" start_max_height_ref="AGL" start_max_height="0" start_max_speed="0" start_requires_arm="1" aat_min_time="7200" type="AAT">
+	<Point type="Start">
+		<Waypoint altitude="205" comment="" id="172" name="172Moenchsheide">
+			<Location latitude="50.5082" longitude="7.25587"/>
+		</Waypoint>
+		<ObservationZone length="20000" type="Line"/>
+	</Point>
+	<Point type="Area">
+		<Waypoint altitude="275" comment="" id="24" name="024Bad Muenstereifel Bhf">
+			<Location latitude="50.559" longitude="6.76453"/>
+		</Waypoint>
+		<ObservationZone radius="20000" type="Cylinder"/>
+	</Point>
+	<Point type="Area">
+		<Waypoint altitude="174" comment="" id="165" name="165Mendig">
+			<Location latitude="50.366" longitude="7.31533"/>
+		</Waypoint>
+		<ObservationZone radius="10000" type="Cylinder"/>
+	</Point>
+	<Point type="Area">
+		<Waypoint altitude="213" comment="" id="89" name="089Elz Flugplatz">
+			<Location latitude="50.4268" longitude="8.011"/>
+		</Waypoint>
+		<ObservationZone radius="20000" type="Cylinder"/>
+	</Point>
+	<Point type="Finish">
+		<Waypoint altitude="205" comment="" id="172" name="172Moenchsheide">
+			<Location latitude="50.5082" longitude="7.25587"/>
+		</Waypoint>
+		<ObservationZone radius="4000" type="Cylinder"/>
+	</Point>
+</Task>
