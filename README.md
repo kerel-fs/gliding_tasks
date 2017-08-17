@@ -1,6 +1,6 @@
 # gliding tasks
 
-For tracking links of the Club-DM 2017 have a look at <yhttps://github.com/dspreitz/Club_DM2017>.
+For tracking links of the Club-DM 2017 have a look at <https://github.com/dspreitz/Club_DM2017>.
 
 # Examples
 ## OGN-DDB to trackingCSV
